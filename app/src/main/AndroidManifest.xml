@@ -132,9 +132,6 @@
         <activity
             android:name=".category.BuyCategoryActivity"
             android:label = "BuyCategoryActivity"/>
-        <activity
-            android:name=".category.CommunityCategoryActivity"
-            android:label = "BuyCategoryActivity"/>
     </application>
 
 </manifest>
